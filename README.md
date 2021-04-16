@@ -6,3 +6,4 @@ Here is a growing collection of reasources and helpful commands to know when wor
 
 ## Git Commands
 - [git config](./GitCommands/Config.md)
+- [git init](./GitCommands/Init.md)
